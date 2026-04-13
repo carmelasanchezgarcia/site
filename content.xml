@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260413163239PPNXS8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260413163239ZHSUUE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>S.A &quot;Twincon league&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Unidad de Twincon</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carmela Sánchez García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje de Eduación Física </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776084657878</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>1c1ee6d1-e70a-4fc2-a4ca-4505974367ee</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la SA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la SA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>1c1ee6d1-e70a-4fc2-a4ca-4505974367ee</odePageId>
+      <odeBlockId>block-1776083539794-1snbhcomz</odeBlockId>
+      <blockName>Twincon league</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>1c1ee6d1-e70a-4fc2-a4ca-4505974367ee</odePageId>
+          <odeBlockId>block-1776083539794-1snbhcomz</odeBlockId>
+          <odeIdeviceId>idevice-1776083539790-ikeknne6o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Etapa: 5º de primaria</p>
+<p>2. Área: Eduación Física</p>
+<p>3. Agrupamientos y organización espacial: En las primeras sesiones parejas/trios, y en el resto grupos reducidos. </p>
+<p>4. Temporalización: 8 sesiones. Abril</p>
+<p>5. Productos:</p>
+<p>- Infografía interactiva con la organización del torneo final.</p>
+<p>- Video/audio explicando las normas del Twincon.</p>
+<p>6. Herramientas tecnológicas: Genially, canva</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776083539790-ikeknne6o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Etapa: 5º de primaria</p>\n<p>2. Área: Eduación Física</p>\n<p>3. Agrupamientos y organización espacial: En las primeras sesiones parejas/trios, y en el resto grupos reducidos. </p>\n<p>4. Temporalización: 8 sesiones. Abril</p>\n<p>5. Productos:</p>\n<p>- Infografía interactiva con la organización del torneo final.</p>\n<p>- Video/audio explicando las normas del Twincon.</p>\n<p>6. Herramientas tecnológicas: Genially, canva</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>1c1ee6d1-e70a-4fc2-a4ca-4505974367ee</odePageId>
+      <odeBlockId>block-1776083855218-uge709b6t</odeBlockId>
+      <blockName>Descripción de la SA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>1c1ee6d1-e70a-4fc2-a4ca-4505974367ee</odePageId>
+          <odeBlockId>block-1776083855218-uge709b6t</odeBlockId>
+          <odeIdeviceId>idevice-1776083855215-2txrvg589</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table width="100%" style="height: 2384.67px;">
+<tbody>
+<tr style="height: 112.667px;">
+<td colspan="4" width="77%" style="height: 112.667px; width: 77.0771%;">TWINCON LEAGUE</td>
+<td width="14%" style="height: 112.667px; width: 14.3782%;">
+<p>Temporalización:</p>
+<p> ABRIL</p>
+</td>
+<td width="7%" style="height: 112.667px; width: 8.64637%;">
+<p>Sesiones:</p>
+<p>8 SESIONES</p>
+</td>
+</tr>
+<tr style="height: 88.6667px;">
+<td width="38%" style="height: 88.6667px; width: 39.0544%;">
+<p>Curso</p>
+<p> 5º EP</p>
+</td>
+<td colspan="5" width="61%" style="height: 88.6667px; width: 61.0474%;"></td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p><br /></p>
+</td>
+</tr>
+<tr style="height: 88.6667px;">
+<td width="38%" style="height: 88.6667px; width: 39.0544%;">
+<p><strong>Relación interdisciplinar entre módulos</strong></p>
+<p><strong> </strong></p>
+</td>
+<td colspan="5" width="61%" style="height: 88.6667px; width: 61.0474%;">
+<p> Educación en valores</p>
+</td>
+</tr>
+<tr style="height: 128.667px;">
+<td width="38%" style="height: 128.667px; width: 39.0544%;">
+<p><strong>Competencias profesionales, personales y sosciales</strong></p>
+</td>
+<td colspan="5" width="61%" style="height: 128.667px; width: 61.0474%;">
+<p> </p>
+<p> <strong>CPSAA, CC, CE, CCL, STEM</strong></p>
+<p> </p>
+</td>
+</tr>
+<tr style="height: 128.667px;">
+<td width="38%" style="height: 128.667px; width: 39.0544%;">
+<p><strong>Relación con ODS 2030</strong></p>
+</td>
+<td colspan="2" width="22%" style="height: 128.667px; width: 22.5758%;">
+<p> </p>
+<p> 4. Eduación de calidad</p>
+<p> </p>
+</td>
+<td width="15%" style="height: 128.667px; width: 15.4469%;">
+<p> 5. Igualdad</p>
+</td>
+<td width="14%" style="height: 128.667px; width: 14.3782%;">
+<p> 3. Salud</p>
+</td>
+<td width="7%" style="height: 128.667px; width: 8.64637%;">
+<p> </p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p><strong>RESULTADOS DE APRENDIZAJE</strong></p>
+</td>
+</tr>
+<tr style="height: 10px;">
+<td colspan="6" width="100%" style="height: 10px; width: 100.102%;">
+<p> </p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="2" width="50%" style="height: 48.6667px; width: 51.3683%;">
+<p><strong>Citerios de evaluación</strong></p>
+</td>
+<td colspan="2" width="26%" style="height: 48.6667px; width: 25.7088%;">
+<p><strong>Instrumento</strong></p>
+</td>
+<td width="14%" style="height: 48.6667px; width: 14.3782%;">
+<p><strong>Ponderación</strong></p>
+</td>
+<td width="7%" style="height: 48.6667px; width: 8.64637%;">
+<p><strong>mínimo</strong></p>
+</td>
+</tr>
+<tr style="height: 408.667px;">
+<td colspan="2" width="50%" style="height: 408.667px; width: 51.3683%;">
+<p>C.EV. 2.2. Aplicar principios básicos de toma de decisiones en situaciones lúdicas y actividades en contextos reales o simulados de actuación, reflexionando sobre las soluciones obtenidas.</p>
+<p>C.EV. 3.2. Respetar las normas consensuadas, así como las reglas de juego, y actuar desde los parámetros de la deportividad y el juego limpio, reconociendo las actuaciones de compañeros y rivales</p>
+</td>
+<td colspan="2" width="26%" style="height: 408.667px; width: 25.7088%;">
+<p>Lista de control</p>
+<p>Rúbricas</p>
+<p>Diana de evaluación</p>
+<p><br /></p>
+</td>
+<td width="14%" style="height: 408.667px; width: 14.3782%;">
+<p> Ponderación idéntica</p>
+</td>
+<td width="7%" style="height: 408.667px; width: 8.64637%;">
+<p> </p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="2" width="50%" style="height: 48.6667px; width: 51.3683%;">
+<p><strong>Saberes básicos</strong></p>
+</td>
+<td colspan="4" width="49%" style="height: 48.6667px; width: 48.7334%;">
+<p><strong>Contenidos mínimos</strong></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="2" width="50%" style="height: 48.6667px; width: 51.3683%;">
+<p><strong> </strong></p>
+<p>BSB C: Resolución problemas motrices</p>
+<p>-        Toma de decisiones: selección de acciones en función del entorno en situaciones motrices individuales. Selección de acciones para el ajuste espacio-temporal en la interacción con los compañeros en situaciones cooperativas. Selección de zonas de envío del móvil desde donde sea difícil devolverlo en situaciones motrices de persecución y de interacción con un móvil. Selección adecuada de las habilidades motrices en situaciones de oposición de contacto. Desmarque y ubicación en un lugar desde el que se constituya un apoyo para los demás en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.</p>
+<p>Iniciación de las habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas: aspectos principales</p>
+</td>
+<td colspan="4" width="49%" style="height: 48.6667px; width: 48.7334%;">
+<p> </p>
+<p>BSB D: Autorregulación emocional e interacción social</p>
+<p>-        Habilidades sociales: estrategias de trabajo en equipo para la resolución constructiva de conflictos en situaciones motrices colectivas.</p>
+<p>Concepto de fairplay o juego limpio</p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p><strong>METODOLOGÍA</strong></p>
+</td>
+</tr>
+<tr style="height: 528.667px;">
+<td width="38%" style="height: 528.667px; width: 39.0544%;">
+<p><br /></p>
+<p>☐ Aprendizaje basado en retos</p>
+<p> Aprendizaje cooperativo</p>
+<p>Aprendizaje por descubrimiento</p>
+<p>☐ Aprendizaje – servicio: creación cartel para fomentar los habitos deportivos entre los alumnos del barrio.</p>
+</td>
+<td colspan="3" width="38%" style="height: 528.667px; width: 38.0227%;"></td>
+<td colspan="2" width="22%" style="height: 528.667px; width: 23.0246%;"></td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p><strong>Agrupamientos</strong></p>
+</td>
+</tr>
+<tr style="height: 168.667px;">
+<td colspan="2" width="50%" style="height: 168.667px; width: 51.3683%;">
+<p>☐Grupos heterogéneos</p>
+<p>☐Grupos fijos</p>
+<p>Grupos reducidos</p>
+</td>
+<td colspan="4" width="49%" style="height: 168.667px; width: 48.7334%;">
+<p><br /></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p><strong>SECUENCIACIÓN DIDÁCTICA</strong></p>
+</td>
+</tr>
+<tr style="height: 88.6667px;">
+<td colspan="4" width="77%" style="height: 88.6667px; width: 77.0771%;">
+<p><strong>Descripción de la actividad, tarea, proceso</strong></p>
+<p> Evidencia de aprendizaje 1: Creacción de un cartel interactivo promocionando el torneo intercentros</p>
+<p>Evidencia de aprendizaje 2: Audio/ video explicando normas del twincon.</p>
+</td>
+<td colspan="2" width="22%" style="height: 88.6667px; width: 23.0246%;">
+<p><strong>Recursos</strong></p>
+<p><strong>Blog del colegio</strong></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="4" width="77%" style="height: 48.6667px; width: 77.0771%;">
+<p> </p>
+</td>
+<td colspan="2" width="22%" style="height: 48.6667px; width: 23.0246%;">
+<p> </p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p><strong>VINCULACIÓN CON PLANES Y PROGRAMAS DEL CENTRO</strong></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p>PLEI: lectura y comprensión de reglas en la sesión 1</p>
+<p>Programa de patios activos e inclusivos: inclusión del twincon en los recreos</p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p><strong>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</strong></p>
+</td>
+</tr>
+<tr style="height: 48.6667px;">
+<td colspan="6" width="100%" style="height: 48.6667px; width: 100.102%;">
+<p> Torneo intercentros en el pabellón del colegio</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776083855215-2txrvg589","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table width=\"100%\" style=\"height: 2384.67px;\">\n<tbody>\n<tr style=\"height: 112.667px;\">\n<td colspan=\"4\" width=\"77%\" style=\"height: 112.667px; width: 77.0771%;\">TWINCON LEAGUE</td>\n<td width=\"14%\" style=\"height: 112.667px; width: 14.3782%;\">\n<p>Temporalización:</p>\n<p> ABRIL</p>\n</td>\n<td width=\"7%\" style=\"height: 112.667px; width: 8.64637%;\">\n<p>Sesiones:</p>\n<p>8 SESIONES</p>\n</td>\n</tr>\n<tr style=\"height: 88.6667px;\">\n<td width=\"38%\" style=\"height: 88.6667px; width: 39.0544%;\">\n<p>Curso</p>\n<p> 5º EP</p>\n</td>\n<td colspan=\"5\" width=\"61%\" style=\"height: 88.6667px; width: 61.0474%;\"></td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p><br /></p>\n</td>\n</tr>\n<tr style=\"height: 88.6667px;\">\n<td width=\"38%\" style=\"height: 88.6667px; width: 39.0544%;\">\n<p><strong>Relación interdisciplinar entre módulos</strong></p>\n<p><strong> </strong></p>\n</td>\n<td colspan=\"5\" width=\"61%\" style=\"height: 88.6667px; width: 61.0474%;\">\n<p> Educación en valores</p>\n</td>\n</tr>\n<tr style=\"height: 128.667px;\">\n<td width=\"38%\" style=\"height: 128.667px; width: 39.0544%;\">\n<p><strong>Competencias profesionales, personales y sosciales</strong></p>\n</td>\n<td colspan=\"5\" width=\"61%\" style=\"height: 128.667px; width: 61.0474%;\">\n<p> </p>\n<p> <strong>CPSAA, CC, CE, CCL, STEM</strong></p>\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 128.667px;\">\n<td width=\"38%\" style=\"height: 128.667px; width: 39.0544%;\">\n<p><strong>Relación con ODS 2030</strong></p>\n</td>\n<td colspan=\"2\" width=\"22%\" style=\"height: 128.667px; width: 22.5758%;\">\n<p> </p>\n<p> 4. Eduación de calidad</p>\n<p> </p>\n</td>\n<td width=\"15%\" style=\"height: 128.667px; width: 15.4469%;\">\n<p> 5. Igualdad</p>\n</td>\n<td width=\"14%\" style=\"height: 128.667px; width: 14.3782%;\">\n<p> 3. Salud</p>\n</td>\n<td width=\"7%\" style=\"height: 128.667px; width: 8.64637%;\">\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p><strong>RESULTADOS DE APRENDIZAJE</strong></p>\n</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 10px; width: 100.102%;\">\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"2\" width=\"50%\" style=\"height: 48.6667px; width: 51.3683%;\">\n<p><strong>Citerios de evaluación</strong></p>\n</td>\n<td colspan=\"2\" width=\"26%\" style=\"height: 48.6667px; width: 25.7088%;\">\n<p><strong>Instrumento</strong></p>\n</td>\n<td width=\"14%\" style=\"height: 48.6667px; width: 14.3782%;\">\n<p><strong>Ponderación</strong></p>\n</td>\n<td width=\"7%\" style=\"height: 48.6667px; width: 8.64637%;\">\n<p><strong>mínimo</strong></p>\n</td>\n</tr>\n<tr style=\"height: 408.667px;\">\n<td colspan=\"2\" width=\"50%\" style=\"height: 408.667px; width: 51.3683%;\">\n<p>C.EV. 2.2. Aplicar principios básicos de toma de decisiones en situaciones lúdicas y actividades en contextos reales o simulados de actuación, reflexionando sobre las soluciones obtenidas.</p>\n<p>C.EV. 3.2. Respetar las normas consensuadas, así como las reglas de juego, y actuar desde los parámetros de la deportividad y el juego limpio, reconociendo las actuaciones de compañeros y rivales</p>\n</td>\n<td colspan=\"2\" width=\"26%\" style=\"height: 408.667px; width: 25.7088%;\">\n<p>Lista de control</p>\n<p>Rúbricas</p>\n<p>Diana de evaluación</p>\n<p><br /></p>\n</td>\n<td width=\"14%\" style=\"height: 408.667px; width: 14.3782%;\">\n<p> Ponderación idéntica</p>\n</td>\n<td width=\"7%\" style=\"height: 408.667px; width: 8.64637%;\">\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"2\" width=\"50%\" style=\"height: 48.6667px; width: 51.3683%;\">\n<p><strong>Saberes básicos</strong></p>\n</td>\n<td colspan=\"4\" width=\"49%\" style=\"height: 48.6667px; width: 48.7334%;\">\n<p><strong>Contenidos mínimos</strong></p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"2\" width=\"50%\" style=\"height: 48.6667px; width: 51.3683%;\">\n<p><strong> </strong></p>\n<p>BSB C: Resolución problemas motrices</p>\n<p>-        Toma de decisiones: selección de acciones en función del entorno en situaciones motrices individuales. Selección de acciones para el ajuste espacio-temporal en la interacción con los compañeros en situaciones cooperativas. Selección de zonas de envío del móvil desde donde sea difícil devolverlo en situaciones motrices de persecución y de interacción con un móvil. Selección adecuada de las habilidades motrices en situaciones de oposición de contacto. Desmarque y ubicación en un lugar desde el que se constituya un apoyo para los demás en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.</p>\n<p>Iniciación de las habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas: aspectos principales</p>\n</td>\n<td colspan=\"4\" width=\"49%\" style=\"height: 48.6667px; width: 48.7334%;\">\n<p> </p>\n<p>BSB D: Autorregulación emocional e interacción social</p>\n<p>-        Habilidades sociales: estrategias de trabajo en equipo para la resolución constructiva de conflictos en situaciones motrices colectivas.</p>\n<p>Concepto de fairplay o juego limpio</p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p><strong>METODOLOGÍA</strong></p>\n</td>\n</tr>\n<tr style=\"height: 528.667px;\">\n<td width=\"38%\" style=\"height: 528.667px; width: 39.0544%;\">\n<p><br /></p>\n<p>☐ Aprendizaje basado en retos</p>\n<p> Aprendizaje cooperativo</p>\n<p>Aprendizaje por descubrimiento</p>\n<p>☐ Aprendizaje – servicio: creación cartel para fomentar los habitos deportivos entre los alumnos del barrio.</p>\n</td>\n<td colspan=\"3\" width=\"38%\" style=\"height: 528.667px; width: 38.0227%;\"></td>\n<td colspan=\"2\" width=\"22%\" style=\"height: 528.667px; width: 23.0246%;\"></td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p><strong>Agrupamientos</strong></p>\n</td>\n</tr>\n<tr style=\"height: 168.667px;\">\n<td colspan=\"2\" width=\"50%\" style=\"height: 168.667px; width: 51.3683%;\">\n<p>☐Grupos heterogéneos</p>\n<p>☐Grupos fijos</p>\n<p>Grupos reducidos</p>\n</td>\n<td colspan=\"4\" width=\"49%\" style=\"height: 168.667px; width: 48.7334%;\">\n<p><br /></p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p><strong>SECUENCIACIÓN DIDÁCTICA</strong></p>\n</td>\n</tr>\n<tr style=\"height: 88.6667px;\">\n<td colspan=\"4\" width=\"77%\" style=\"height: 88.6667px; width: 77.0771%;\">\n<p><strong>Descripción de la actividad, tarea, proceso</strong></p>\n<p> Evidencia de aprendizaje 1: Creacción de un cartel interactivo promocionando el torneo intercentros</p>\n<p>Evidencia de aprendizaje 2: Audio/ video explicando normas del twincon.</p>\n</td>\n<td colspan=\"2\" width=\"22%\" style=\"height: 88.6667px; width: 23.0246%;\">\n<p><strong>Recursos</strong></p>\n<p><strong>Blog del colegio</strong></p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"4\" width=\"77%\" style=\"height: 48.6667px; width: 77.0771%;\">\n<p> </p>\n</td>\n<td colspan=\"2\" width=\"22%\" style=\"height: 48.6667px; width: 23.0246%;\">\n<p> </p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p><strong>VINCULACIÓN CON PLANES Y PROGRAMAS DEL CENTRO</strong></p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p>PLEI: lectura y comprensión de reglas en la sesión 1</p>\n<p>Programa de patios activos e inclusivos: inclusión del twincon en los recreos</p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p><strong>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</strong></p>\n</td>\n</tr>\n<tr style=\"height: 48.6667px;\">\n<td colspan=\"6\" width=\"100%\" style=\"height: 48.6667px; width: 100.102%;\">\n<p> Torneo intercentros en el pabellón del colegio</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
